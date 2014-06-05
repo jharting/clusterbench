@@ -22,7 +22,7 @@ It comes in 3 flavors for Java EE 5, 6 and 7:
 
 Output files:
 
-    ./clusterbench-ee7-ear/target/clusterbench-ee7.ear
+    ./clusterbench-ee7-ear/target/clusterbench-ee7.earaskldfjklasjdhfsakdfhklasdjfh
     ./clusterbench-ee6-ear/target/clusterbench-ee6.ear
     ./clusterbench-ee6-ear-passivating/target/clusterbench-ee6-passivating.ear
     ./clusterbench-ee5-ear/target/clusterbench-ee5.ear
